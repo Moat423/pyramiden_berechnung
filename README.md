@@ -1,4 +1,4 @@
-# pyramiden_berechnung
+# Pyramiden-Seitenlängen-Berechnung
 
 Ein sehr einfach Python Program zur Berechnung der Seitenkantenlänge von n-Grundflächen Pyramiden
 Es beinhaltet ein grafisches Programm welches die Pyramide visualisiert.
